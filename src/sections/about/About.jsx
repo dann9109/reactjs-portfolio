@@ -1,4 +1,4 @@
-import CV from '../../assets/cv.pdf'
+import CV from '../../assets/Daniel_Stella_Resume (1).pdf'
 import {HiDownload} from 'react-icons/hi'
 import HeaderImage from '../../assets/header.jpg'
 import data from './data'
@@ -38,3 +38,5 @@ const About = () => {
 }
 
 export default About
+
+
